@@ -1,4 +1,6 @@
-# Histogram and Histogram Equalization of an image
+### EX NO : 04
+### DATE  : 26.04.2022
+# <p align="center">Histogram and Histogram Equalization of an image</p>
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -23,8 +25,10 @@ cv2.equalize() is used to transform the gray image to equalized form.
 The Histogram of gray scale image and color image is shown.
 
 ## Program:
-### Developed By: Aishree Ramesh
-### Register Number: 212220230003
+
+Developed By: Aishree Ramesh
+<br>
+Register Number: 212220230003
 
 ### a) Write your code to find the histogram of gray scale image and color image channels.
 ```python
